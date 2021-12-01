@@ -8,4 +8,4 @@
  - [x] [Exercício 4 - Faça um Programa que peça as 4 notas Bimestrais e mostre a Média.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%204)<br>
  - [x] [Exercício 5 - Faça um Programa que converta metros em Centímetros.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%205) <br>  
  - [x] [Exercício 6 - Faça um Programa que peça o Raio de um Círculo, calcule e mostre sua Área.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%206) <br>
- - [x] [Exercício 7 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta Área para o Usuário.]
+ - [x] [Exercício 7 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta Área para o Usuário.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%207) <br>
