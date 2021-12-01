@@ -8,4 +8,4 @@
  - [x]  [Exercício 6 - Faça um Programa que peça o Raio de um Círculo, calcule e mostre sua Área.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%206) <br>
  - [x]  [Exercício 7 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta Área para o Usuário.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%207) 
  - [x]  [Exercício 8 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no Mês. Calcule e Mostre o total do seu salário no referido Mês.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%208)
-
+  - [] [Exercício 9 - Faça um Programa que Peça a temperatura em graus Farenheit,transforme e mostre a temperatura em Graus Celsius.]()
