@@ -9,4 +9,4 @@
  - [x]  [Exercício 7 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta Área para o Usuário.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%207) 
  - [x]  [Exercício 8 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no Mês. Calcule e Mostre o total do seu salário no referido Mês.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%208)
  - [x] [Exercício 9 - Faça um Programa que Peça a temperatura em graus Farenheit,transforme e mostre a temperatura em Graus Celsius.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%209)
- - [] [Exercício 10 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.] ()
+ - [x] [Exercício 10 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2010)
