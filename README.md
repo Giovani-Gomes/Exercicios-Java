@@ -14,3 +14,4 @@
 -o produto do dobro do primeiro com metade do segundo . <br>
 -a soma do triplo do primeiro com o terceiro. <br>
 -o terceiro elevado ao cubo.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2011) 
+- [x] [Exercício 12 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (peso*altura)- 58](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2012)
