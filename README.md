@@ -23,7 +23,7 @@
  
  <br>
  
- https://starchart.cc/{giovani-gomes}/{Exercicios-Java}.svg
+ https://starchart.cc/{https://github.com/Giovani-Gomes}/{Exercicios-Java}.svg
  
  
 
