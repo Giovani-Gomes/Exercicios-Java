@@ -1,5 +1,6 @@
-# Exercicios-Java <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<h1>
+# Exercicios-Java  <h1>
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+
 
   - [x] [Exercício 1 - Faça um Programa que mostre a Mensagem "Hello World" na Tela](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2001). 
  - [x] [Exercício 2 - Faça um Programa que Peça um número e então mostre a Mensagem " O Número informado foi [Número]](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2002). 
@@ -19,3 +20,4 @@
 - [x] [Exercício 13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:<br>
 Para homens: (72.7*h) - 58 <br>
 Para mulheres: (62.1*h) - 44.7](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2013)
+
