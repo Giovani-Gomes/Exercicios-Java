@@ -1,6 +1,9 @@
-# Exercicios-Java  <h1>
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-
+# Exercicios-Java 
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="50" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+ 
+ 
 
   - [x] [Exercício 1 - Faça um Programa que mostre a Mensagem "Hello World" na Tela](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2001). 
  - [x] [Exercício 2 - Faça um Programa que Peça um número e então mostre a Mensagem " O Número informado foi [Número]](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2002). 
