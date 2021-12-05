@@ -1,4 +1,5 @@
-# Exercicios-Java <h1>
+# Exercicios-Java <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<h1>
 
   - [x] [Exercício 1 - Faça um Programa que mostre a Mensagem "Hello World" na Tela](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2001). 
  - [x] [Exercício 2 - Faça um Programa que Peça um número e então mostre a Mensagem " O Número informado foi [Número]](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2002). 
