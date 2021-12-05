@@ -20,4 +20,10 @@
 - [x] [Exercício 13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:<br>
  Para homens: (72.7*h) - 58 <br>
  Para mulheres: (62.1*h) - 44.7](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2013)
+ 
+ <br>
+ 
+ https://starchart.cc/{giovani-gomes}/{Exercicios-Java}.svg
+ 
+ 
 
