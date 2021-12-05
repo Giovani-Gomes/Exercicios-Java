@@ -16,5 +16,5 @@
 -o terceiro elevado ao cubo.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2011) 
 - [x] [Exercício 12 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (peso*altura)- 58](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2012)
 - [x] [Exercício 13 - Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:<br>
-Para homens: (72.7*h) - 58<br>
+Para homens: (72.7*h) - 58 <br>
 Para mulheres: (62.1*h) - 44.7](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2013)
