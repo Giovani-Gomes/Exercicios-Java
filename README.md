@@ -32,7 +32,7 @@ Informe ao usuário as quantidades de tinta a serem compradas e os respectivos p
 comprar apenas latas de 18 litros; <br>
 comprar apenas galões de 3,6 litros; <br>
 misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2017)
-- [x] [Exercício 18 - Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).]()
+- [x] [Exercício 18 - Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).](https://github.com/Giovani-Gomes/Exercicios-Java/tree/main/Exerc%C3%ADcio%2018)
 
 
  
