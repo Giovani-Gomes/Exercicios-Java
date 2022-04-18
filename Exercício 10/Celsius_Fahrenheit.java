@@ -7,9 +7,10 @@ public class Celsius_Fahrenheit{
     public static void main(String[] args) {
         double Farenheit ;
         double Celsius;
+        Scanner scan= new Scanner(System.in);
         System.out.println("Informe a Temperatura em Celsius:");
-        Scanner CELSISUS= new Scanner(System.in);
-        Celsius = CELSISUS.nextDouble();
+        
+        Celsius = scan.nextDouble();
 
         Farenheit= (Celsius * 9/5) + 32 ;
 

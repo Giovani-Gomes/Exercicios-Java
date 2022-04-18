@@ -5,13 +5,14 @@ import java.util.Scanner;
 public class Exercício_Pescador{
 
     public static void main(String[] args) {
+        
         int Peso_Peixe;
         int Execesso_Peso;
         int Multa;
-
+        Scanner scan = new Scanner(System.in);
         System.out.println("Informe o Peso dos Peixes : ");
-        Scanner PESO_PEIXE = new Scanner(System.in);
-        Peso_Peixe = PESO_PEIXE.nextInt();
+        
+        Peso_Peixe = scan.nextInt();
         Execesso_Peso = Peso_Peixe - 50;
 
         if (Execesso_Peso > 0){

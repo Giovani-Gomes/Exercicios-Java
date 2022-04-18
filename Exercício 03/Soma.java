@@ -6,18 +6,17 @@ public class Main {
         int Num1;
         int Num2;
         int Soma;
-
+        Scanner scan = new Scanner(System.in);
         System.out.println("Digite um número: ");
-        Scanner Numero1 = new Scanner(System.in);
-        Num1 = Integer.parseInt(Numero1.next());
+
+        Num1 = scan.nextInt();
 
         System.out.println("Mais Digite um número: ");
-        Scanner Numero2 = new Scanner(System.in);
-        Num2= Integer.parseInt(Numero2.next());
+        Num2= scan.nextInt();
 
         Soma = Num1 + Num2;
 
-        System.out.println("A soma entre " + Num1 + " e " + Num2 + " = " + Soma);
+        System.out.println("A soma entre " + Num1 + " + " + Num2 + " = " + Soma);
 
     }
 }

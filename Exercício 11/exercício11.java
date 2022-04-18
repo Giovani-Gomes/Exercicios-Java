@@ -7,18 +7,16 @@ public class Main {
     public static void main(String[] args) {
         int num1,num2; // Dois números inteiros
         float num3; // Número real;
+        Scanner scan = new Scanner(System.in);
 
         System.out.println("Informe o Primeiro Número inteiro : ");
-        Scanner NUM1 = new Scanner(System.in);
-        num1 = NUM1.nextInt();
+        num1 = scan.nextInt();
 
         System.out.println("Informe o Segundo Número inteiro : ");
-        Scanner NUM2 = new Scanner(System.in);
-        num2 = NUM2.nextInt();
+        num2 = scan.nextInt();
 
         System.out.println("Informe um Número Real : ");
-        Scanner NUM3 = new Scanner(System.in);
-        num3 = NUM2.nextFloat();
+        num3 = scan.nextFloat();
 
        num1 = num1 * 2 * (num2 / 2);
        num2 = (int) (num1 *  3 + num3);

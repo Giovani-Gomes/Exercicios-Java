@@ -7,14 +7,11 @@ public class Salario_impostos{
     public static void main(String[] args) {
         int Horas_trabalhadas;
         float Valor_hora,Salario_Bruto,Valor_Imposto_Renda , Valor_INSS,Valor_Sindicado ,Salario_liquido,Descontos;
-
+        Scanner scan = new Scanner(System.in);
         System.out.println("Informe quanto ganha por hora: ");
-        Scanner VALOR_HORAS = new Scanner(System.in);
-        Valor_hora = VALOR_HORAS.nextFloat();
-
+        Valor_hora = scan.nextFloat();
         System.out.println("Informe quantas horas você trabalhou:  ");
-        Scanner HORAS_TRABALHADAS = new Scanner(System.in);
-        Horas_trabalhadas = HORAS_TRABALHADAS.nextInt();
+        Horas_trabalhadas = scan.nextInt();
 
         Salario_Bruto = Horas_trabalhadas * Valor_hora;
         Valor_Imposto_Renda = (float) (0.11 * Salario_Bruto);

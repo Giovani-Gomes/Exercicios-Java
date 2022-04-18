@@ -2,14 +2,15 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Farenheit_Celsius {
+public class Main {
 
     public static void main(String[] args) {
         double Farenheit ;
         double Celsius;
+        Scanner scan = new Scanner(System.in);
         System.out.println("Informe a Temperatura em Farenheit :");
-        Scanner FARENHEIT = new Scanner(System.in);
-        Farenheit = FARENHEIT.nextDouble();
+        
+        Farenheit = scan.nextDouble();
 
         Celsius = (5*(Farenheit - 32)/9);
 

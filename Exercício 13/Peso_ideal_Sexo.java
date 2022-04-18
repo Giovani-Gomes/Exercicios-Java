@@ -2,25 +2,25 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Peso_ideal_Sexo{
+public class Main{
 
     public static void main(String[] args) {
         float altura;
         int Sexo;
         float Peso;
+        Scanner scan = new Scanner(System.in);
         System.out.println("---------------------------------------");
         System.out.println("Informe sua Altura: ");
-        Scanner ALTURA = new Scanner(System.in);
+       
         System.out.println("---------------------------------------");
 
-        altura = ALTURA.nextFloat();
+        altura = scan.nextFloat();
 
         System.out.println("---------------------------------------");
         System.out.println("1 - Para Homem ");
         System.out.println("2 - Para Mulher");
         System.out.println("---------------------------------------");
-        Scanner SEXO = new Scanner(System.in);
-        Sexo = SEXO.nextInt();
+        Sexo = scan.nextInt();
 
         if (Sexo == 1) {
             Peso = (float) ((72.7 * altura) - 58);

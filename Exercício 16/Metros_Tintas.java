@@ -11,8 +11,6 @@ public class Metros_Tintas{
         int Capacidade = 18;
         int Total, Latas;
 
-
-
         System.out.print(("Informe a Área Quadrada em que pretende Pintar: "));
         Scanner AREA = new Scanner(System.in);
         Area_Quadrada = AREA.nextDouble();

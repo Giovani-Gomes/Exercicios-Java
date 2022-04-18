@@ -9,13 +9,12 @@ public class Main {
 
     public static void main(String[] args) {
        float Tam_Arquivo,Velo_Link, Temp_Aproximado;
+       Scanner scan = new Scanner(System.in);
         System.out.print("Informe o Tamanho do Arquivo(MegaBytes) :");
-        Scanner TAM_ARQUIVO = new Scanner(System.in);
-        Tam_Arquivo = TAM_ARQUIVO.nextFloat();
+        Tam_Arquivo = scan.nextFloat();
 
         System.out.print("Informe a velocidade do link em Mbps: ");
-        Scanner VELO_LINK = new Scanner(System.in);
-        Velo_Link = VELO_LINK.nextFloat();
+         Velo_Link = scan.nextFloat();
         DecimalFormat d = new DecimalFormat(".##", new DecimalFormatSymbols(new Locale("en", "US")));
 
         Temp_Aproximado = ((Tam_Arquivo * 8) / Velo_Link) / 60;

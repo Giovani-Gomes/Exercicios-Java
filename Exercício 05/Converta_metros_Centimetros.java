@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-      float Metros,Centimentros;
-
+    float Metros,Centimentros;
+    Scanner scan = new Scanner(System.in);
     System.out.println("Digite a medida em Metros :");
-    Scanner METROS = new Scanner(System.in);
-    Metros = METROS.nextFloat();
+    
+    Metros = scan.nextFloat();
 
     Centimentros = Metros * 100;
     

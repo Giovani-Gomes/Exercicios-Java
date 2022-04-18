@@ -2,14 +2,14 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Peso_ideal {
+public class Main{
 
     public static void main(String[] args) {
         double altura = 0;
         float Peso;
+        Scanner scan = new Scanner(System.in);
         System.out.println("Digite sua Altura :");
-        Scanner ALTURA = new Scanner(System.in);
-        altura = ALTURA.nextDouble();
+        altura = scan.nextDouble();
 
         Peso = (float) ((72.7 * altura) - 58);
 

@@ -7,13 +7,12 @@ public class Main {
     public static void main(String[] args) {
         int base,altura;
         int Area, dobro;
+        Scanner scan = new Scanner(System.in);
         System.out.println("Informe as Medidas do Quadrado - Altura");
-        Scanner ALTURA = new Scanner(System.in);
-        altura = ALTURA.nextInt();
+        altura = scan.nextInt();
 
         System.out.println("Informe as Medidas do Quadrado - Largura");
-        Scanner BASE = new Scanner(System.in);
-        base = BASE.nextInt();
+        base = scan.nextInt();
 
         Area = base * altura;
 
