@@ -1,4 +1,5 @@
 # Exercicios <img align="center" alt="Java" height="50" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Exercicios-Java)
 
  
 
